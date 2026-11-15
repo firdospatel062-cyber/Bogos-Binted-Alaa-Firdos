@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=OfficeWorld
+comment1.params=
+comment1.target=OfficeWorld()
+comment2.params=
+comment2.target=void\ drawFloor()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=x\ y\ width\ height
+comment4.target=void\ addWall(int,\ int,\ int,\ int)
+comment5.params=style\ x\ y\ width\ height
+comment5.target=void\ addFurniture(java.lang.String,\ int,\ int,\ int,\ int)
+comment6.params=count
+comment6.target=void\ updateScore(int)
+comment7.params=
+comment7.target=void\ showWin()
+numComments=8

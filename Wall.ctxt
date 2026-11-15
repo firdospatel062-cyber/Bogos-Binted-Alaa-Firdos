@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Wall
+comment1.params=width\ height
+comment1.target=Wall(int,\ int)
+comment2.params=style\ width\ height
+comment2.target=Wall(java.lang.String,\ int,\ int)
+comment3.params=img\ w\ h
+comment3.target=void\ drawWall(greenfoot.GreenfootImage,\ int,\ int)
+comment4.params=img\ w\ h
+comment4.target=void\ drawDesk(greenfoot.GreenfootImage,\ int,\ int)
+comment5.params=img
+comment5.target=void\ drawChair(greenfoot.GreenfootImage)
+comment6.params=img
+comment6.target=void\ drawPlant(greenfoot.GreenfootImage)
+comment7.params=img\ w\ h
+comment7.target=void\ drawCabinet(greenfoot.GreenfootImage,\ int,\ int)
+numComments=8
