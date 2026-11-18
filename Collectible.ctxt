@@ -1,17 +1,3 @@
 #BlueJ class context
 comment0.target=Collectible
-comment1.params=type
-comment1.target=Collectible(java.lang.String)
-comment2.params=
-comment2.target=java.lang.String\ getType()
-comment3.params=img
-comment3.target=void\ drawCoffee(greenfoot.GreenfootImage)
-comment4.params=img
-comment4.target=void\ drawBadge(greenfoot.GreenfootImage)
-comment5.params=img
-comment5.target=void\ drawDocument(greenfoot.GreenfootImage)
-comment6.params=img
-comment6.target=void\ drawKeys(greenfoot.GreenfootImage)
-comment7.params=img
-comment7.target=void\ drawDrink(greenfoot.GreenfootImage)
-numComments=8
+numComments=1
